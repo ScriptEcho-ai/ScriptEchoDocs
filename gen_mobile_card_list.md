@@ -2,4 +2,4 @@
 
 ## 生成目标
 
-![](./assets/examples/MobileH5/卡片列表.jpeg)
+<image width="320px" height=auto src="./assets/examples/MobileH5/卡片列表.jpeg"/>

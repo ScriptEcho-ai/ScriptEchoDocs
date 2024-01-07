@@ -2,4 +2,4 @@
 
 ## 生成目标
 
-![](./assets/examples/MobileH5/单元格分组页.jpeg)
+<image width="320px" height=auto src="./assets/examples/MobileH5/单元格分组页.jpeg"/>

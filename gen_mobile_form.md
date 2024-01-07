@@ -2,4 +2,6 @@
 
 ## 生成目标
 
-![](./assets/examples/MobileH5/表单页.jpeg)
+<image width="320px" height=auto src="./assets/examples/MobileH5/表单页.jpeg"/>
+
+<!-- ![](./assets/examples/MobileH5/表单页.jpeg) -->
