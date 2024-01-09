@@ -2,4 +2,4 @@
 
 ## 生成目标
 
-![](./assets/examples/Web/统计分析.jpeg)
+![](./assets/examples/Web/统计分析2.png)

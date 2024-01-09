@@ -2,4 +2,4 @@
 
 ## 生成目标
 
-![](./assets/examples/Web/表单.jpeg)
+![](./assets/examples/Web/表单1.jpeg)
