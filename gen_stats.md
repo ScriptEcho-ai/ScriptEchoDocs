@@ -2,7 +2,7 @@
 
 ## 生成目标
 
-![](./assets/examples/Web/webstats.png)
+![](./assets/examples/Web/统计分析2.png)
 
 ## 生成步骤
 

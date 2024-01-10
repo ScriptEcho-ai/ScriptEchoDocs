@@ -2,7 +2,7 @@
 
 ## 生成目标
 
-![](./assets/examples/Web/请假流程查询表格.jpeg)
+![](./assets/examples/Web/标签查询表格.jpeg)
 
 ## 生成步骤
 
