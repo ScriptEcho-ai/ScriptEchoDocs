@@ -26,3 +26,4 @@
     * [删除页面元素](remove_element_from_page.md)
   * [页面逻辑调整](adjust_page_logics.md)
 * [FAQs](faq.md)
+  * [代码渲染报错或白屏怎么办？](faq/show_error_or_blank.md)
