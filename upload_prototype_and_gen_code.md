@@ -1,6 +1,6 @@
 # 如何通过上传原型生成页面代码
 通过以下工具，按照以下步骤，将准备好的原型图文件上传到画布中：
-![](./assets/examples/Web/uploadprotophoto.png)
+![](./assets/examples/Web/0116-2.jpg)
 
 选中您所需要的原型图：
 ![](./assets/examples/Web/upload-1.png)

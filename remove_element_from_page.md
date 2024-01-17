@@ -4,4 +4,4 @@
 
 * 批注：
 
-![](./assets/examples/Web/remove_element.gif)git 
+![](./assets/examples/Web/remove_element.gif)

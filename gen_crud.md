@@ -2,7 +2,7 @@
 
 ## 生成目标
 
-![](./assets/examples/Web/标签查询表格.jpeg)
+![](./assets/examples/Web/标签查询表格.png)
 
 ## 生成步骤
 
