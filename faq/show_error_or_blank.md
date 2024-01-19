@@ -8,6 +8,6 @@
 
 使用在线代码编辑器：
 
-![](../assets/online-editor.npg)
+![](../assets/online-editor.png)
 
 如果还找不出问题的原因，可以尝试在本地进行编译，具体可以参考[本地编译代码](../local-compile.md)
