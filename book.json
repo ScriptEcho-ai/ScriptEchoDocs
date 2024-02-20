@@ -1,3 +1,11 @@
 {
-    "plugins": ["intopic-toc"]
+    "plugins": [
+      "intopic-toc",
+      "baidu-statistics"
+    ],
+    "pluginsConfig": {
+        "baidu": {
+            "token": "85246a314033925a5d302b2c327a78a3"
+        }
+    }
 }
