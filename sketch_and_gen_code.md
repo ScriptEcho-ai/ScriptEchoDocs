@@ -4,6 +4,7 @@
 ## 1.绘制草图
 
 > 在空画布上绘制：
+
 <div style="display: flex; justify-content:center; align-items:center;">
 <img src="./assets/examples/Web/sketchproto-1.gif" alt="绘制草图" width="100%"></div>
 
