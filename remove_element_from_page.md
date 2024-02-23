@@ -2,12 +2,9 @@
 
     平台中可以使用以下方式，对页面元素进行精准删除修改。
 
-<div style = "font-size:16px;">
 
 > 1. 批注
 > 2. 手动修改代码
-
-</div>
 
 ## 1. 批注修改
 <div style="display: flex; justify-content:center; align-items:center;">

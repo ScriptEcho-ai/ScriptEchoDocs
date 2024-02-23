@@ -1,7 +1,7 @@
 # Summary
 
 * [产品介绍](README.md)
-  * [什么是xxx？](what_about.md)
+  * [什么是ScriptEcho？](what_about.md)
   * [产品特性](features.md)
   * [产品路线图](roadmap.md)
 * [开始使用](get_started.md)
