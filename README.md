@@ -1,7 +1,5 @@
 # ScriptEcho 轻松上手AI代码生成
 
-视频示例
-
 10倍提升页面开发效率，海量的物料，Vue、React、uniapp、Flutter 等各种框架支持
 
 ## 功能特性 
