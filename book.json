@@ -1,8 +1,14 @@
 {
-  "plugins": ["intopic-toc", "baidu-statistics"],
+  "plugins": ["intopic-toc", "baidu-statistics", "head-append"],
   "pluginsConfig": {
     "baidu": {
       "token": "85246a314033925a5d302b2c327a78a3"
+    },
+    "head-append": {
+      "code": [
+        "<SCRIPTTAG async src=\"https://www.googletagmanager.com/gtag/js?id=G-GV4F2GECJT\"></SCRIPTTAG>",
+	"<SCRIPTTAG>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag(\"js\", new Date());\n\n  gtag(\"config\", \"G-GV4F2GECJT\");\n</SCRIPTTAG>"
+      ]
     }
   }
 }

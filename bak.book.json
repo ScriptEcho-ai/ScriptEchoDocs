@@ -6,8 +6,8 @@
     },
     "head-append": {
       "code": [
-        "<script async src='https://www.googletagmanager.com/gtag/js?id=G-GV4F2GECJT'></script>",
-        "<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-GV4F2GECJT');\n</script>"
+        "<SCRIPTTAG async src=\"https://www.googletagmanager.com/gtag/js?id=G-GV4F2GECJT\"></SCRIPTTAG>",
+	"<SCRIPTTAG>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag(\"js\", new Date());\n\n  gtag(\"config\", \"G-GV4F2GECJT\");\n</SCRIPTTAG>"
       ]
     }
   }
