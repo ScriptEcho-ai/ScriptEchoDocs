@@ -7,7 +7,8 @@
     "head-append": {
       "code": [
         "<SCRIPTTAG async src=\"https://www.googletagmanager.com/gtag/js?id=G-GV4F2GECJT\"></SCRIPTTAG>",
-	"<SCRIPTTAG>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag(\"js\", new Date());\n\n  gtag(\"config\", \"G-GV4F2GECJT\");\n</SCRIPTTAG>"
+	      "<SCRIPTTAG>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag(\"js\", new Date());\n\n  gtag(\"config\", \"G-GV4F2GECJT\");\n</SCRIPTTAG>",
+        "<SCRIPTTAG>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-T8V8L76C');</SCRIPTTAG>"
       ]
     }
   }
