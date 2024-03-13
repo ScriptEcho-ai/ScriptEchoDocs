@@ -16,7 +16,7 @@
 #### 2.2、页面首次生成
 输入提示词：这是一个表单页面，每个表单控件的类型不同，需要按照图片进行区分
 <br>点击【生成按钮】，生成页面，如下：
-<iframe style="width=100%; height=400px;" src="//player.bilibili.com/player.html?aid=1151603803&bvid=BV1iZ421879q&cid=1468622501&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="width=100%; height:400px;" src="//player.bilibili.com/player.html?aid=1151603803&bvid=BV1iZ421879q&cid=1468622501&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br><br>
 首次生成的页面结果如下：
 <br><image width="320px" height=auto src="./assets/examples/Web/mobileform-1.jpg"/>

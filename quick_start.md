@@ -7,7 +7,7 @@
 目前您可以直接在页面中，在固定的某一个项目内新增一个页面
 <br>
 
-<iframe style="width=100%;height=400px" src="//player.bilibili.com/player.html?aid=1501530598&bvid=BV1cS421A7iJ&cid=1468383153&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="width:100%;height:400px" src="//player.bilibili.com/player.html?aid=1501530598&bvid=BV1cS421A7iJ&cid=1468383153&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ### 2、上传您的创意
 #### 2.1、上传原型图
 通过以下工具，按照以下步骤，将准备好的原型图文件上传到画布中：
@@ -28,7 +28,7 @@
 ![](./assets/examples/Web/upload-5.png)
 #### 2.2、绘制草图
 如果您还没有完整的原型图，也无妨，您还可以直接在画布上绘制简单的草图：
-<iframe style="width=100%;height=400px" src="//player.bilibili.com/player.html?aid=1451637974&bvid=BV15i421o7TW&cid=1468385615&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="width:100%;height:400px" src="//player.bilibili.com/player.html?aid=1451637974&bvid=BV15i421o7TW&cid=1468385615&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 完成草图的绘制后，点击提示词右边的生成按钮，等待一下，您的页面即将呈现。
 
@@ -39,7 +39,7 @@
 我们也会持续提供更多不同领域的提示词模版，方便您日后的使用。
 ### 3、将您的创意转化为页面&代码
 不论您通过以上哪一种方式进行描述，最后点击“生成”按钮后，系统都会帮您生成页面预览以及对应的页面代码
-<iframe style="width=100%;height=400px" src="//player.bilibili.com/player.html?aid=1501586350&bvid=BV1kD42177kL&cid=1468387364&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="width:100%;height:400px" src="//player.bilibili.com/player.html?aid=1501586350&bvid=BV1kD42177kL&cid=1468387364&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ### 4、调整页面/代码
 在您完成页面的生成后，您可以通过以下两种方式进行页面的微调：
 #### 4.1、对页面进行批注修改
@@ -49,7 +49,7 @@
 ![](./assets/examples/Web/annotation-2.png)
 您完成批注后，选中所有对象，点击“生成”，即可针对您的批注进行页面的重新生成。
 
-<iframe style="width=100%;height=400px" src="//player.bilibili.com/player.html?aid=1251526845&bvid=BV1jJ4m1h7pg&cid=1468388522&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="width:100%;height:400px" src="//player.bilibili.com/player.html?aid=1251526845&bvid=BV1jJ4m1h7pg&cid=1468388522&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 #### 4.2、手动修改代码
 根据上述文档您可以了解到，平台会自动为您生成一份页面代码，如果您是开发，您也可以通过修改页面代码来达到您想要的页面效果。
 ![](./assets/examples/Web/code.png)

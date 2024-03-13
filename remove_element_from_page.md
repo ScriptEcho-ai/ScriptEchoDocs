@@ -8,7 +8,7 @@
 
 ## 1. 批注修改
 <div style="display: flex; justify-content:center; align-items:center;">
-<iframe style="width=100%;height=400px;" src="//player.bilibili.com/player.html?aid=1201748488&bvid=BV1EF4m1c79t&cid=1468545236&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="width:100%;height:400px;" src="//player.bilibili.com/player.html?aid=1201748488&bvid=BV1EF4m1c79t&cid=1468545236&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 2. 手动修改代码
 

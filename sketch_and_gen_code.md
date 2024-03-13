@@ -6,7 +6,7 @@
 > 在空画布上绘制：
 
 <div style="display: flex; justify-content:center; align-items:center;">
-<iframe style="width=100%;height=400px;" src="//player.bilibili.com/player.html?aid=1301700207&bvid=BV1Vu4m1g7Bh&cid=1468527478&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="width:100%;height:400px;" src="//player.bilibili.com/player.html?aid=1301700207&bvid=BV1Vu4m1g7Bh&cid=1468527478&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <br>
 其中，您需要使用系统预设的手绘工具：<br>
@@ -44,4 +44,4 @@
 <div style="display: flex; justify-content:center; align-items:center;">
 <img src="./assets/examples/Web/upload-5.png" alt="点击生成" width="100%"></div><br>
 <div style="display: flex; justify-content:center; align-items:center;">
-<iframe style="width=100%;height=400px;" src="//player.bilibili.com/player.html?aid=1101614761&bvid=BV14w4m1d71w&cid=1468529102&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="width:100%;height:400px;" src="//player.bilibili.com/player.html?aid=1101614761&bvid=BV14w4m1d71w&cid=1468529102&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
