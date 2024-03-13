@@ -14,7 +14,7 @@
 #### 2.2、页面首次生成
 
 点击【生成按钮】，生成页面，如下：
-![](./assets/examples/Web/webcrud-4.gif)
+<iframe style="width=100%; height=400px" src="//player.bilibili.com/player.html?aid=1951579319&bvid=BV1AC411Y7bM&cid=1468458432&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br><br>
 首次生成的页面结果如下：
 <br><image width=auto height=auto src="./assets/examples/Web/webcrud-2.jpg"/>
@@ -25,7 +25,7 @@
 #### 2.3、页面调整
 
 由于跟原型图仍有较大的差距，因此需要进行页面的调整，如下：
-![](./assets/examples/Web/webcrud-6.gif)
+<iframe style="width=100%; height=400px" src="//player.bilibili.com/player.html?aid=1251727335&bvid=BV1EJ4m1a7Y1&cid=1468461933&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br><br>
 首次调整的页面结果如下：
 <br><image width=auto height=auto src="./assets/examples/Web/webcrud-5.jpg"/>

@@ -15,7 +15,7 @@
 由于该原型图有两个不同类型的分块组合而成，因此，首次生成前添加提示词，如：<br>
 成员管理的内容为表格，底部有新增成员按钮
 点击【生成按钮】，生成页面，如下：
-![](./assets/examples/Web/webdetail-2.gif)
+<iframe style="width=100%; height=400px" src="//player.bilibili.com/player.html?aid=1451534620&bvid=BV1Ci421d7Tu&cid=1468497221&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br><br>
 首次生成的页面结果如下：
 <br><image width=auto height=auto src="./assets/examples/Web/webdetail-3.jpg"/>
@@ -26,7 +26,7 @@
 #### 2.3、页面调整
 
 由于跟原型图仍有部分的差距，因此需要进行页面的调整，如下：
-![](./assets/examples/Web/webdetail-5.gif)
+<iframe style="width=100%; height=400px" src="//player.bilibili.com/player.html?aid=1401507860&bvid=BV1sr421H7VH&cid=1468499320&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br><br>
 首次调整的页面结果如下：
 <br><image width=auto height=auto src="./assets/examples/Web/webdetail-6.jpg"/>

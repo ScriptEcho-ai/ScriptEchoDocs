@@ -14,7 +14,7 @@
 #### 2.2、页面首次生成
 
 点击【生成按钮】，生成页面，如下：
-![](./assets/examples/MobileH5/H5cardlist.gif)
+<iframe style="width:100%; height=400px;" src="//player.bilibili.com/player.html?aid=1001728961&bvid=BV1ex4y1S771&cid=1468504690&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br><br>
 首次生成的页面结果如下：
 <br><image width="320px" height=auto src="./assets/examples/Web/mobile-card-list-2.jpg"/>

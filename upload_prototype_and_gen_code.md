@@ -32,4 +32,4 @@
 <div style="display: flex; justify-content:center; align-items:center;">
 <img src="./assets/examples/Web/upload-5.png" alt="点击生成" width="100%"></div><br>
 <div style="display: flex; justify-content:center; align-items:center;">
-<img src="./assets/examples/Web/webcrud-4.gif" alt="生成结果" width="100%"></div><br>
+<iframe style="width=100%;height=400px;" src="//player.bilibili.com/player.html?aid=1701696410&bvid=BV1jK421x7uL&cid=1468839853&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>
