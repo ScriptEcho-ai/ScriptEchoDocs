@@ -21,3 +21,14 @@
 <br><br>
 与原型图的对比：
 ![](./assets/examples/Web/cellgroup-3.png)
+
+<style>
+    .page-inner{
+        width: 100% !important;
+    }
+    @media (max-width: 1240px){
+        .page-inner{
+         width: 100% !important;
+    }
+    }
+</style>

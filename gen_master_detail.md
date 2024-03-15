@@ -31,3 +31,13 @@
 首次调整的页面结果如下：
 <br><image width=auto height=auto src="./assets/examples/Web/webdetail-6.jpg"/>
 <br><br>
+<style>
+    .page-inner{
+        width: 100% !important;
+    }
+    @media (max-width: 1240px){
+        .page-inner{
+         width: 100% !important;
+    }
+    }
+</style>

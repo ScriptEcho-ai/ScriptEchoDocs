@@ -41,3 +41,13 @@
     <iframe style="width:100%;height:400px;" src="//player.bilibili.com/player.html?aid=1801742555&bvid=BV17t421V7Nv&cid=1468478805&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ### 3、生成结果
 ![](./assets/examples/Web/webform-10.jpg)
+<style>
+    .page-inner{
+        width: 100% !important;
+    }
+    @media (max-width: 1240px){
+        .page-inner{
+         width: 100% !important;
+    }
+    }
+</style>

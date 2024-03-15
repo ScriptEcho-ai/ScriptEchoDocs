@@ -6,3 +6,13 @@
 <iframe style="width:100%; height:400px;" src="//player.bilibili.com/player.html?aid=1101662098&bvid=BV1Xw4m1d72t&cid=1468532775&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 批注可以有针对性的对页面进行布局调整。
+<style>
+    .page-inner{
+        width: 100% !important;
+    }
+    @media (max-width: 1240px){
+        .page-inner{
+         width: 100% !important;
+    }
+    }
+</style>

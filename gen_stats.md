@@ -18,3 +18,13 @@
 <br><br>
 首次生成的页面结果如下：
 <br><image width=auto height=auto src="./assets/examples/Web/webstats-2.jpg"/>
+<style>
+    .page-inner{
+        width: 100% !important;
+    }
+    @media (max-width: 1240px){
+        .page-inner{
+         width: 100% !important;
+    }
+    }
+</style>
