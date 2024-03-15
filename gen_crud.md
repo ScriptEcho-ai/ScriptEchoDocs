@@ -32,3 +32,13 @@
 <br><br>
 与原型图的对比：
 ![](./assets/examples/Web/webcrud-7.png)
+<style>
+    .page-inner{
+        width: 100% !important;
+    }
+    @media (max-width: 1240px){
+        .page-inner{
+         width: 100% !important;
+    }
+    }
+</style>
