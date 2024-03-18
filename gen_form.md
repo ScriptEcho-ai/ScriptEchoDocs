@@ -7,7 +7,10 @@
 ## 生成步骤
 
 ### 1、生成方式介绍
-    该示例先是使用上传原型图的方式进行页面生成，在完成初次页面生成后，再对页面进行批注、修改代码等方式进行微调。
+
+该示例先是使用上传原型图的方式进行页面生成，在完成初次页面生成后，再对页面进行批注、修改代码等方式进行微调。
+
+
 ### 2、生成步骤描述
 #### 2.1、上传原型图
 <iframe style="width:100%;height:400px;" src="//player.bilibili.com/player.html?aid=1851678532&bvid=BV1sW421c7VH&cid=1468469601&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
