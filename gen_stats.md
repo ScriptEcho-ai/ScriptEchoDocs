@@ -16,8 +16,8 @@
 ![](./assets/examples/Web/webstats-1.jpg)
 #### 2.2、页面首次生成
 输入提示词：底部为表格。
-<br>点击【生成按钮】，生成页面，如下：
-![](./assets/examples/Web/webstats-1.gif)
+<br>点击【生成按钮】，生成页面，如下：<br>
+<image src="./assets/examples/Web/webstats-1.gif" style="width:100%">
 <br><br>
 首次生成的页面结果如下：
 <br><image width=auto height=auto src="./assets/examples/Web/webstats-2.jpg"/>
