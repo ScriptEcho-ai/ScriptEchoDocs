@@ -14,6 +14,7 @@
 ### 2、生成步骤描述
 #### 2.1、上传原型图
 <iframe style="width:100%;height:400px;" src="//player.bilibili.com/player.html?aid=1851678532&bvid=BV1sW421c7VH&cid=1468469601&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 #### 2.2、页面首次生成
 在完成原型图的上传后，可见画布中展示如：<br>
 
