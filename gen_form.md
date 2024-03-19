@@ -23,14 +23,17 @@
 点击【生成按钮】，生成页面，如下：
 <iframe style="width:100%;height:400px;" src="//player.bilibili.com/player.html?aid=1851601330&bvid=BV1GW421c7mH&cid=1468471466&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br><br>
-首次生成的页面结果如下：
+首次生成的页面结果如下：<br>
+
 ![](./assets/examples/Web/webform-4.png)
 <br><br>
-与原型图的对比：
+与原型图的对比：<br>
+
 ![](./assets/examples/Web/webform-5.png)
+<br><br>
 
 #### 2.3、页面微调
-    我们知道，首次生成的结果并不能满足日常的开发需求，因此，我们有了如下的页面调整操作：
+我们知道，首次生成的结果并不能满足日常的开发需求，因此，我们有了如下的页面调整操作：<br>
 * 1. 批注：
     <br>我们对V1.0版本生成的页面进行批注，并且将这些批注发送给大模型，让大模型针对这些批注进行修改，如：
     <iframe style="width:100%;height:400px;" src="//player.bilibili.com/player.html?aid=1851556351&bvid=BV1fW421F7pn&cid=1468473342&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
