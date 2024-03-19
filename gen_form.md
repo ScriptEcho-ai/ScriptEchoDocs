@@ -29,7 +29,7 @@
 <br><br>
 与原型图的对比：<br>
 
-<image src="./assets/examples/Web/webform-5.png" width=auto height=auto /><br>
+<image src="./assets/examples/Web/webform-5.png" width=auto height=auto />
 
 #### 2.3、页面微调
 
