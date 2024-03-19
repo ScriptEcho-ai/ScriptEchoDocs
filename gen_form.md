@@ -25,12 +25,11 @@
 <br><br>
 首次生成的页面结果如下：<br>
 
-<!-- ![](./assets/examples/Web/webform-4.png) -->
 <image src="./assets/examples/Web/webform-4.png" width=auto height=auto />
 <br><br>
 与原型图的对比：<br>
-<!-- ![](./assets/examples/Web/webform-5.png) -->
-<image src="./assets/examples/Web/webform-5.png" width=auto height=auto />
+
+<image src="./assets/examples/Web/webform-5.png" width=auto height=auto /><br>
 
 #### 2.3、页面微调
 
@@ -45,6 +44,7 @@
 
 <br>通过以上两种方式合并使用，我们可以得出以下的页面结果：
 <iframe style="width:100%;height:400px;" src="//player.bilibili.com/player.html?aid=1351648986&bvid=BV1p6421c73X&cid=1468476823&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 <br>上述可见，生成的V2.0版本产生了白屏bug，这里就需要开发排查生成的页面代码中的一些问题，在FAQ中也会有该类问题的解决方式描述，而该页面中出现的问题为大模型在生成V2.0页面版本代码时，省略了一些代码所导致，因此需要开发手动进行代码的替换修改，也就是从V1.0版本中将被省略的代码补充到V2.0版本，并点击保存修改即可，如：
 <iframe style="width:100%;height:400px;" src="//player.bilibili.com/player.html?aid=1801742555&bvid=BV17t421V7Nv&cid=1468478805&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
